@@ -59,48 +59,55 @@
 
 
 .section-three{
-    display: flex;
-    height: 380px;
+    height: 420px;
     margin-top: 43px;
     color: black;
     background-color: #1a1a1ae3 ;
 }
 .features{
     list-style: none;  
- 
+    display: flex;
+    margin-left: 160px;
 }
 
 .feature-list-1{
     background-color: #ffff;
-    width: 115%;
-    height: 250px;
-    
-    
+    width: 270px;
+    height: 300px;
+    margin-top: 65px;
+    margin-left: 25px;
 }
 
 .feature-list-2{
     background-color: #ffff;
-    width: 115%;
-    height: 250px;
+    width: 270px;
+    height: 300px;
+    margin-top: 65px;
+    margin-left: 25px;
+    
 }
 .feature-list-3{
     background-color: #ffff;
-    width: 115%;
-    height: 250px;
-    
+    width: 270px;
+    height: 300px;
+    margin-top: 65px;
+    margin-left: 25px;
 }
 
 .feature-list-1 h3{
     color: #1f1f1fe3;
     padding-top: 40px;
+    padding-bottom: 25px;
 }
 .feature-list-2 h3{
     color: #1f1f1fe3;
     padding-top: 40px;
+    padding-bottom: 25px;
 }
 .feature-list-3 h3{
     color: #1f1f1fe3;
     padding-top: 40px;
+    padding-bottom: 25px;
 }
 
 .section-four{
@@ -149,15 +156,18 @@
     display: flex;
     background-color: black;
 }
-.web{
-    margin-right: 330px;
-    
-    color: #ffff;
-    background-color: cyan;
-}
+
+ .web{
+    background-color: rgb(0, 0, 0);
+    width: 1000px;
+    height: 60px;
+    margin-right: 450px;
+    margin-left: 200px; 
+ }
 .project{
-   
-    margin-left: 550px;
-    color: #ffff;
-    background-color: antiquewhite;
-}
+    width: 1000px;
+    height: 60px;
+    margin-right: 50px;
+    background-color: rgb(0, 0, 0);
+} 
+
